@@ -45,7 +45,7 @@
 
 <h1>
     <picture>
-        <img src = "https://i.giphy.com/Exc9GvjitUCPczepZe.webp?raw=true" width = 50px>
+        <img src = "https://i.giphy.com/Exc9GvjitUCPczepZe.webp" width = 50px>
     </picture> 
     My trophies 
 </h1>
@@ -53,6 +53,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatisAgr)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-![Tisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent)
+<h1>
+    <picture>
+        <img src = "https://next3-assets.s3.amazonaws.com/activities/1321/backgrounds-1495419125-graphs_a4_72dpi.gif" width = 50px>
+    </picture> 
+    Github Stats 
+</h1>
+
+![Tisma's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&border_radius=15)
 
 
