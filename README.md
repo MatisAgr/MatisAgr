@@ -52,15 +52,82 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatisAgr)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-<details><summary>
 <h1>
     <picture>
-        <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
+        <img src = "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanRta2VhcWIxbmt1cWo1cTJ0anp5dTJrY3ZtOXFyY2pxeHI2eG9kcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cLNVpwFasrCB5jbQVp/giphy.webp" width = 50px>
     </picture> 
-    Github Stats 
+    My Skills 
 </h1>
-</summary>
+
+<div align="center">
+    
+### 🌐 Languages
+    
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-0061A6?style=for-the-badge&logo=windows&logoColor=white)
+![JSX](https://img.shields.io/badge/JSX-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+</div>
+
+<div align="center">
+    
+### 🛠️ Frameworks
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+</div>
+
+<div align="center">
+    
+### 🛠️ Utilities
+
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-239120?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![NGrok](https://img.shields.io/badge/ngrok-1F1E3F?style=for-the-badge&logo=ngrok&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=heidisql&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+
+
+
+
+<details>
+    <summary>
+        <h1>
+            <picture>
+                <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
+            </picture> 
+            Github Stats 
+        </h1>
+        <hr>
+    </summary>
 
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatisAgr&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatisAgr&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
@@ -69,8 +136,6 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatisAgr&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisAgr&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 <a><img src="https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="Tisma's stats" width="49.7%" height="auto"></a>
-
-
 <a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatisAgr" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
 </details>
 
