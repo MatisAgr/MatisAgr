@@ -3,12 +3,12 @@
 
 [![MasterHead](https://i.imgur.com/D4zri5w.jpeg)](https://github.com/MatisAgr)
 
-<center>
+<div align="center">
     <img src="https://komarev.com/ghpvc/?username=MatisAgr" alt="Counter"> &nbsp;
     <img src="https://img.shields.io/github/stars/MatisAgr?style=flat&logo=github" alt="Stars"/> &nbsp;
     <img src="https://img.shields.io/github/followers/MatisAgr?style=flat&logo=github" alt="Followers"/> &nbsp;
     <img src="https://img.shields.io/github/last-commit/MatisAgr/MatisAgr" alt="Last commit"/> &nbsp;
-</center>
+</div>
 
 <h1>
     <picture>
