@@ -1,7 +1,15 @@
 
 <!-- Stats global -->
 
+<style>
+    .img-head {
+        border-radius: 15px 
+    }
+</style>
+
 [![MasterHead](https://i.imgur.com/D4zri5w.jpeg)](https://github.com/MatisAgr)
+<img class="img-head" src="https://i.imgur.com/D4zri5w.jpeg"/>
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=MatisAgr" alt="Counter"> &nbsp;
