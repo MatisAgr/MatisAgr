@@ -40,8 +40,8 @@
 
 
 ![snake gif](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000)](https://git.io/streak-stats)
+![Tisma's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatisAgr&custom_title=Tisma's%20GitHub%20Activity%20Graph%20Last%20Month&bg_color=0D1117&color=7F3FBF&line=2a7ef7&point=fff&area_color=FFFFFF&title_color=FFFFFF&hide_border=true&border_radius=15)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000&hide_border=true)](https://git.io/streak-stats)
 
 <h1>
     <picture>
@@ -53,44 +53,24 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MatisAgr)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
+<details><summary>
 <h1>
     <picture>
         <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>
     </picture> 
     Github Stats 
 </h1>
+</summary>
+
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatisAgr&theme=tokyonight" alt="Profile card" width="100%" height="auto"></a>
-
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-    <div style="width: 49.7%;">
-        <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatisAgr&theme=tokyonight" alt="Statistics of languages ​​in commits" width="100%" height="auto"></a>
-    </div>
-    <div style="width: 49.7%;">
-        <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatisAgr&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="100%" height="auto"></a>
-    </div>
-    <div style="width: 49.7%;">
-        <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatisAgr&theme=tokyonight" alt="Profile statistics" width="100%" height="auto"></a>
-    </div>
-    <div style="width: 49.7%;">
-        <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatisAgr&theme=tokyonight" alt="Data on commits per day" width="100%" height="auto"></a>
-    </div>
-    <div style="width: 49.7%;">
-        <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisAgr&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="100%" height="auto"></a>
-    </div>
-        <div style="width: 49.7%;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="Tisma's stats" width="100%" height="auto">
-        </a>
-    </div>
-    <div style="width: 49.7%;">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatisAgr" alt="Harlok's WakaTime stats" width="100%" height="auto">
-        </a>
-    </div>
-
-</div>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatisAgr&theme=tokyonight" alt="Statistics of languages ​​in commits" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatisAgr&theme=tokyonight" alt="Statistics of languages ​​in repositories" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatisAgr&theme=tokyonight" alt="Profile statistics" width="49.7%" height="auto"></a>
+<a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatisAgr&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisAgr&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
+<a><img src="https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="Tisma's stats" width="49.7%" height="auto"></a>
 
 
-</div></a>
+<a><img src="https://github-readme-stats.vercel.app/api/wakatime?username=MatisAgr" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
+</details>
 
