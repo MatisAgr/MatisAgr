@@ -38,8 +38,7 @@
 </h1>
 
 
-![snake gif](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake.gif)
-
+![snake gif](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000)](https://git.io/streak-stats)
 
