@@ -23,7 +23,6 @@
 <br>
 
 - :school: I am a `Full-Stack Developer` at *IPSSI Paris School*
-- :technologist: I love using Software as a solution for every `Problem`.
 - :moyai: Natural `Leader` with a strong sense of `Organization`.
 - :student: I’m currently learning `Big data and IA`.
 - :nerd_face: Always up-to-date with the `latest technologies`.
