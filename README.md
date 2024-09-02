@@ -39,7 +39,7 @@
 </h1>
 
 
-![snake gif](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
+![snake graph](https://github.com/MatisAgr/MatisAgr/blob/output/github-contribution-grid-snake-dark.svg)
 ![Tisma's Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatisAgr&custom_title=Tisma's%20GitHub%20Activity%20Graph%20Last%20Month&bg_color=0D1117&color=7F3FBF&line=2a7ef7&point=fff&area_color=FFFFFF&title_color=FFFFFF&hide_border=true&border_radius=15)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MatisAgr&theme=meta-dark&border_radius=15&card_width=1000&hide_border=true)](https://git.io/streak-stats)
 
