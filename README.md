@@ -22,7 +22,7 @@
 
 <br>
 
-- :school: I am a `Full-Stack Developer` at *IPSSI Paris School*
+- :school: I am a `Full-Stack Developer` at *IPSSI Paris School* <a href="https://ecole-ipssi.com//"><img src="https://media.discordapp.net/attachments/1155833873394044978/1272487681615462400/image.png?ex=66ffb600&is=66fe6480&hm=8aac3e2d592583375d33809754cfb2ca671303d7f8288b81e1672f06cc2f57e8&=&format=webp&quality=lossless&width=270&height=111" height="18px"/></a>
 - :moyai: Natural `Leader` with a strong sense of `Organization`.
 - :student: I’m currently learning `Big data and IA`.
 - :nerd_face: Always up-to-date with the `latest technologies`.
