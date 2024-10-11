@@ -29,6 +29,19 @@
 <br>
 <br>
 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://spotify-recently-played-readme.vercel.app/api?user=w68wm6t9zbwn8vys8i075bfi5" alt="recent play spotify">
+    </td>
+  </tr>
+</table>
+
 
 <h1>
     <picture>
