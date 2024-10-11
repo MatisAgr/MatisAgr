@@ -29,7 +29,7 @@
 <br>
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%">
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&redirect=true">
