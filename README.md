@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/github/stars/MatisAgr?style=flat&logo=github" alt="Stars"/> &nbsp;
     <img src="https://img.shields.io/github/followers/MatisAgr?style=flat&logo=github" alt="Followers"/> &nbsp;
     <img src="https://img.shields.io/github/last-commit/MatisAgr/MatisAgr" alt="Last commit"/> &nbsp;
-    <img src="https://wakatime.com/badge/user/a16f794f-b91d-4818-8dfc-d768ce605ece.svg" alt="WakaTime"/> &nbsp;
+    <a href="https://wakatime.com/@Tisma"><img src="https://wakatime.com/badge/user/a16f794f-b91d-4818-8dfc-d768ce605ece.svg" alt="WakaTime"/></a>&nbsp;
 </div>
 
 <h1>
@@ -174,7 +174,8 @@
 <a><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MatisAgr&theme=tokyonight" alt="Data on commits per day" width="49.7%" height="auto"></a>
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisAgr&langs_count=20&theme=tokyonight&hide_progress=true&hide_border=true" alt="Top Languages" width="49.7%" height="auto"></a>
 <a><img src="https://github-readme-stats.vercel.app/api?username=MatisAgr&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight&hide_border=true" alt="Tisma's stats" width="49.7%" height="auto"></a>
-Wakatime Since 09-2024
+<h3> Wakatime Since 09-2024 <a href="https://wakatime.com/@Tisma"> (Click for more details) </a> </h3>
+
 <a href="https://wakatime.com/@Tisma"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tisma" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
 </details>
 
