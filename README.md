@@ -180,5 +180,24 @@
 <h3> Wakatime Since 09-2024 <a href="https://wakatime.com/@Tisma"> (Click for more details) </a> </h3>
 
 <a href="https://wakatime.com/@Tisma"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tisma" alt="Tisma's WakaTime stats" width="100%" height="49.7%"></a>
+
+
+<div align="center">
+
+# Code Stats for
+
+<table>
+    <tr>
+        <td>2024</td>
+        <td>https://wakatime.com/a-look-back-at-2024/a16f794f-b91d-4818-8dfc-d768ce605ece/ewsalbejiy</td>
+    </tr>
+    <tr>
+        <td>2025</td>
+        <td>in coming... (2026 Jan 1st)</td>
+    </tr>
+</table>
+
+</div>
+
 </details>
 
