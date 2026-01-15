@@ -193,7 +193,7 @@
     </tr>
     <tr>
         <td>2025</td>
-        <td>in coming... (2026 Jan 1st)</td>
+        <td>https://wakatime.com/a-look-back-at-2025/a16f794f-b91d-4818-8dfc-d768ce605ece/zwmxthknmc</td>
     </tr>
 </table>
 
