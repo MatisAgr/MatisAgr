@@ -36,8 +36,8 @@
         <img src="https://badbooksgoodtimes.com/wp-content/uploads/2015/12/music-listening-gif.gif" />
     </td>
     <td width="50%" align="center">
-        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="spotify-github-profile" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=w68wm6t9zbwn8vys8i075bfi5&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color_cover=true&bar_color=53b14f&mode=dark">
       </a>
       <img src="https://spotify-recently-played-readme.vercel.app/api?user=w68wm6t9zbwn8vys8i075bfi5" alt="recent play spotify" height="300"/>
     </td>
